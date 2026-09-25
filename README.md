@@ -1,7 +1,7 @@
 # Ajay-WaracleStoreAutomationDotNetProject
 A repository for automating Waracle store test scenarios
 
-Warble Store Automation
+Waracle Store Automation
 ----------------------------------------------------------------------------------------
 Automated test scenarios for Waracle store using below dependencies
 .NET 8
@@ -23,7 +23,7 @@ To Execute the tests build the project and run the tests using the Test Explorer
 Framework Approach
 ------------------------------------------------------------------------------------------
 A behavioural data driven approach using Feature files and Step Definitions to build the Tests combined with POM Design pattern with Playwright test logic implemented across Pages and called
-In step definition files.
+in step definition files.
 
 Issues Observed
 ------------------------------------------------------------------------------------------
