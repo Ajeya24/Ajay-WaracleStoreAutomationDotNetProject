@@ -1,0 +1,50 @@
+﻿<Properties StartupConfiguration="{525FEC18-D96B-4CD3-BBED-4BED4C6CC90B}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.WaracleProject PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="UnitTest1.cs">
+    <Files>
+      <File FileName="UnitTest1.cs" Line="35" Column="31" />
+      <File FileName="global.json" />
+      <File FileName="Driver/PlaywrightDriverInitializer.cs" />
+      <File FileName="Driver/IPlaywrightDriverInitializer.cs" />
+      <File FileName="Driver/AsyncTask.cs" Line="15" Column="14" />
+      <File FileName="Driver/PlaywrightDriver.cs" />
+      <File FileName="appsettings.json" Line="2" Column="17" />
+      <File FileName="Config/ConfigReader.cs" Line="27" Column="1" />
+      <File FileName="Pages/LoginPage.cs" Line="21" Column="45" />
+      <File FileName="Pages/HomePage.cs" Line="1" Column="1" />
+      <File FileName="Pages/AllProductsPage.cs" Line="1" Column="1" />
+      <File FileName="Pages/ShoppingCartPage.cs" Line="1" Column="1" />
+      <File FileName="Pages/OrderSummaryPage.cs" Line="1" Column="1" />
+      <File FileName="Pages/OrderConfirmationPage.cs" Line="1" Column="1" />
+      <File FileName="StepDefinitions/E2EStepDefinition.cs" Line="28" Column="9" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="WaracleProject" expanded="True">
+            <Node name="WaracleProject" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+              <Node name="Config" expanded="True" />
+              <Node name="Driver" expanded="True" />
+              <Node name="Pages" expanded="True" />
+              <Node name="StepDefinitions" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="WaracleProject" expanded="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
